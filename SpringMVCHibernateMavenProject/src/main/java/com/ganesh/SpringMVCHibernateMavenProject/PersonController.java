@@ -11,7 +11,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import com.ganesh.SpringMVCHibernateMavenProject.model.Person;
 import com.ganesh.SpringMVCHibernateMavenProject.service.PersonService;
-
+/**
+ * 
+ * @author Ganesh
+ *
+ */
 @Controller
 public class PersonController 
 {
