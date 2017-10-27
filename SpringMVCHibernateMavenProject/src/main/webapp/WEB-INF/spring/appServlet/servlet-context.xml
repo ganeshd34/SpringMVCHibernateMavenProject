@@ -29,9 +29,9 @@
 		destroy-method="close">
 		<beans:property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<beans:property name="url"
-			value="jdbc:mysql://localhost:3306/test" />
-		<beans:property name="username" value="root" />
-		<beans:property name="password" value="" />
+			value="jdbc:mysql://inddt00166/test" />
+		<beans:property name="username" value="gfmuser" />
+		<beans:property name="password" value="gfm@123" />
 	</beans:bean>
 
 	<!-- Hibernate 4 SessionFactory Bean definition -->
